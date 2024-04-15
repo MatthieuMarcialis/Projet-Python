@@ -16,7 +16,7 @@ Acquisition des données:
     Tâches à accomplir:
         - Effectuer l'acquisition de données (Position (x,y) - Vitesse linéaire - Vitesse angulaire)
         - Stocker les information dans des fichiers dumps
-        - permettre la visualisation des ces données à l'aide de graphiques (maplotlib)
+        - permettre la visualisation des ces données à l'aide de graphiques (matplotlib)
 
 Pilotage du Robot:
     Tâches à accomplir:
